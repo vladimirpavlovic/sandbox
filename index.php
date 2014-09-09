@@ -5,7 +5,7 @@
     <title>Vladimir Sandbox - Lipsum Boilerplate Feature</title>
 </head>
 <body>
-    <h1>Boilerplate</h1>
+    <h1>Wind of Change</h1>
     <hr/>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum commodo porttitor. Donec facilisis lacus vitae libero euismod, a molestie enim facilisis. Aenean bibendum elit aliquet arcu consequat iaculis. Aliquam ultrices est vulputate magna eleifend faucibus. Mauris pellentesque metus nec eros vestibulum, et placerat magna adipiscing. Fusce non felis ac neque consectetur pretium ac eget nisi. Fusce consectetur elit eu sem ultricies tincidunt.
     Praesent feugiat risus nec sollicitudin aliquet. Sed viverra lectus nec luctus ultrices. Maecenas enim enim, malesuada sit amet scelerisque quis, adipiscing ac leo. Nulla in pharetra odio. Donec tincidunt fermentum vehicula. Pellentesque eget augue et lacus feugiat ornare ac sit amet mi. Quisque vitae feugiat odio. Quisque tincidunt metus ut turpis imperdiet, sit amet dignissim nisi sollicitudin. Morbi egestas dignissim vestibulum. Phasellus eget dolor bibendum, fermentum diam ac, volutpat magna. Etiam luctus turpis sed accumsan dignissim. Nunc in tincidunt dolor. Proin commodo ut sapien id placerat.
